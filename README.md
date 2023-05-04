@@ -9,7 +9,7 @@
 https://data.education.gouv.fr/explore/dataset/fr-en-ips_lycees
 
 Dataset containing IPS values for high schools in France (offshore regions included)
-
+\n
 
 "Indicateurs de valeur ajoutée des lycées d'enseignement général et technologique"
 
