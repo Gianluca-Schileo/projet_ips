@@ -1,6 +1,6 @@
 # Indice de Position Sociale (IPS) Project
 
-### Considering IPS and IVAL, what should be taken into account when making policies?
+### Considering IPS and IVAL, what should be taken into account when making policies to increase baccalaureate results?
 
 ### Datasets
 
@@ -19,3 +19,5 @@ Dataset conaining added value indices for high schools (IVAL, determines how eff
 ### Virtual Environment
 
 We use a conda environment, execute conda.sh (Linux) or conda.cmd (Windows) to create it.
+
+The baccalaureate is the french high school graduation exam.
