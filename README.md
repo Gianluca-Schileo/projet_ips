@@ -1,6 +1,8 @@
 # Indice de Position Sociale (IPS) Project
 
+
 ### Datasets
+
 
 "Indices de position sociale dans les lycées de France métropolitaine et DROM (2016-2021)"
 
@@ -14,7 +16,9 @@ https://data.education.gouv.fr/explore/dataset/fr-en-indicateurs-de-resultat-des
 
 Dataset conaining added value indices for high schools (IVAL, determines how effective high school policy is on student success) in France
 
+
 ### Objectives
+
 
 -Figure out how values of IPS impact french high school graduation exam results (baccalaureate)
 
