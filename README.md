@@ -10,8 +10,6 @@ https://data.education.gouv.fr/explore/dataset/fr-en-ips_lycees
 
 Dataset containing IPS values for high schools in France (offshore regions included)
 
-
-
 "Indicateurs de valeur ajoutée des lycées d'enseignement général et technologique"
 
 https://data.education.gouv.fr/explore/dataset/fr-en-indicateurs-de-resultat-des-lycees-denseignement-general-et-technologique
@@ -31,3 +29,7 @@ Dataset conaining added value indices for high schools (IVAL, determines how eff
 -Figure out which policies impact these factors and how
 
 -Determine which policies are or could be effective to improve baccalaureate results
+
+### Virtual Environment
+
+We use a conda environment, execute conda.sh (Linux) or conda.cmd (Windows) to create it.
