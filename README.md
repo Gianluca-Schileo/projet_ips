@@ -1,6 +1,6 @@
 # Indice de Position Sociale (IPS) Project
 
-### Considering IPS and IVAL, what factors should be taken into account when making high school policies to increase student success?
+### Considering IPS and IVAL, what factors should be taken into account when making government aid programs to increase student success?
 
 ### Datasets
 
