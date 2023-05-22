@@ -1,6 +1,6 @@
 # Indice de Position Sociale (IPS) Project
 
-### Considering IPS and IVAL, what factors should be taken into account in government aid programs to increase student success?
+### What factors should be taken into account in french aid programs to increase baccalaureate success?
 
 ### Datasets
 
